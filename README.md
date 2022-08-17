@@ -1,6 +1,6 @@
 # Assignemnet of AI For Manufucturing (Digital twin)
 
-This repository contains the data files and python code for the assignment.
+This repository contains the data files and python code for the project.
 
 Data files
 *************
