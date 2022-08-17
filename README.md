@@ -1,2 +1,7 @@
-Our work focuses on understanding of bearing health through ML-based vibration monitoring. As bearings form primary components of all mechanical equipment, effective bearing health monitoring is essential for avoiding overhead costs and to efficiently run manufacturing processes.
-We employ various Deep learning models- custom Artificial Neural Networks and LSTM based models to accurately detect a fault in bearings.
+# Assignemnet of AI For Manufucturing (Digital twin)
+
+This repository contains the data files and python code for the assignment.
+
+Data files
+*************
+Vibration and Power Data for different bearing health conditions such as, IR - Inner race fault, OR - Outer race fault, Healthy, Cage broken
